@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I will use this space as my study book !
 - 💬 Ask me about anything! always welcome to be a coworker!
 - 📫 How to reach me: you can contact me using email !
-  - Here's my email : daltang1015@naver.com or iyeong996@gmail.com
+  - Here's my email address : daltang1015@naver.com or iyeong996@gmail.com
 - ⚡ Fun fact: I really like to see a comic or animation !
 - As a learner, I will be organizing various data analysis topics here. I hope you'll follow my journey and see my progress!! Thank you :-)
