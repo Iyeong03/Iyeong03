@@ -27,44 +27,9 @@
 
 <div align="center">
 <h2>⭐️Certifications</h2>
-  <span style="
-    display:inline-block;
-    background:#2F80ED;
-    color:white;
-    padding:10px 22px;
-    border-radius:6px;
-    font-weight:700;
-    font-size:16px;
-    margin:6px;
-    font-family: Arial, sans-serif;
-    letter-spacing:1px;
-  ">ADsP</span>
-
-  <span style="
-    display:inline-block;
-    background:#F2994A;
-    color:white;
-    padding:10px 22px;
-    border-radius:6px;
-    font-weight:700;
-    font-size:16px;
-    margin:6px;
-    font-family: Arial, sans-serif;
-    letter-spacing:1px;
-  ">빅데이터분석기사</span>
-
-  <span style="
-    display:inline-block;
-    background:#27AE60;
-    color:white;
-    padding:10px 22px;
-    border-radius:6px;
-    font-weight:700;
-    font-size:16px;
-    margin:6px;
-    font-family: Arial, sans-serif;
-    letter-spacing:1px;
-  ">리눅스마스터2급</span>
+  <img src="https://img.shields.io/badge/ADsP-blue?style=for-the-badge&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/빅데이터분석기사-orange?style=for-the-badge&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/리눅스마스터2급-green?style=for-the-badge&labelColor=1f2937"/>
 </div>
 
 <div align="center">
