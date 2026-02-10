@@ -43,7 +43,7 @@
 <table align="center">
   <tr>
     <td align="center" width="400">
-      <br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/main/result/result.svg" width="300" />
+      <br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/master/static/result.svg" width="300" />
       <br><br>
       <strong>Programmers</strong>
       <br><br> </td>
