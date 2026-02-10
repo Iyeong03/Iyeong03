@@ -1,4 +1,4 @@
-## Welcom to Iyeong03 Repository 👋
+## Welcom to Iyeong03 Repository! 👋
 
 <!--
 **Iyeong03/Iyeong03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying Data Analysis
+- 🌱 I’m currently learning SQL, Python, Statistics .. etc
+- 👯 My uni major is AI Convergence
+- 🤔 I will use this space as my study book !
+- 💬 Ask me about anything! always welcome to be a coworker!
+- 📫 How to reach me: you can contact me using email ! Here's my email : daltang1015@naver.com or iyeong996@gmail.com
+- ⚡ Fun fact: I really like to see a comic or animation !
