@@ -40,12 +40,8 @@
 
 
 <div align="center">
-  <h2>🏅 GitHub Stats</h2>
-  
-  <!-- 전체 활동/아이콘 포함 -->
-  ![Iyeong03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iyeong03&show_icons=true&theme=radical)
-  
-  <!-- 언어별 사용량 -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyeong03&layout=compact&theme=radical)
+  <h2>🏅 Problem Solving Stats</h2>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://programmers.co.kr/?utm_source=naver/{Iyeong03})
 </div>
 
