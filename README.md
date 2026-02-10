@@ -42,6 +42,6 @@
 <div align="center">
   <h2>🏅 Problem Solving Stats</h2>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={selly1015})](https://solved.ac/{selly1015})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=selly1015)](https://solved.ac/selly1015)
 </div>
 
