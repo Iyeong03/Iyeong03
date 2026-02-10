@@ -38,7 +38,6 @@
 <a href="mailto:iyeong996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
 
----
 
 <div align="center">
       <br> <a href="https://solved.ac/yujimin-io">
