@@ -44,7 +44,7 @@
   <a href="https://solved.ac/selly1015">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=selly1015" />
   </a>
-  <br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/master/static/result.svg" width="300" />
+  <br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/master/static/result.svg" width="400" />
       <br><br>
       <strong>Programmers</strong>
       <br><br> </td>
