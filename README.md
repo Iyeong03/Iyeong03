@@ -36,10 +36,6 @@
 <a href="https://www.instagram.com/a.yx0g_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://velog.io/@ayounggari/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 <a href="mailto:iyeong996@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-<br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/master/static/result.svg" width="300" />
-      <br><br>
-      <strong>Programmers</strong>
-      <br><br> </td>
 </div>
 
 
@@ -48,7 +44,10 @@
   <a href="https://solved.ac/selly1015">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=selly1015" />
   </a>
-  
+  <br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/master/static/result.svg" width="300" />
+      <br><br>
+      <strong>Programmers</strong>
+      <br><br> </td>
 
 </div>
 
