@@ -28,7 +28,7 @@
 <h2>⭐️Certifications</h2>
   <img src="https://img.shields.io/badge/ADsP-pink?style=flat-square"/>
   <img src="https://img.shields.io/badge/빅데이터분석기사-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/리눅스마스터2급-yellow?style=**for-the-badge**"/>
+  <img src="https://img.shields.io/badge/리눅스마스터2급-white?style=**for-the-badge**"/>
 </div>
 
 <div align="center">
