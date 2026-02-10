@@ -40,22 +40,18 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="400">
+<div align="center">
       <br> <img src="https://raw.githubusercontent.com/Iyeong03/programmers-badge/master/static/result.svg" width="300" />
       <br><br>
       <strong>Programmers</strong>
       <br><br> </td>
-    <td align="center" width="400">
       <br> <a href="https://solved.ac/yujimin-io">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=selly1015" width="300" />
       </a>
       <br><br>
       <strong>Baekjoon</strong>
       <br><br> </td>
-  </tr>
-</table>
+</div>
 
 <br>
 
