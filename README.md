@@ -39,13 +39,6 @@
 ---
 
 <div align="center">
-<h2>🏅 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Iyeong03&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyeong03&layout=compact&theme=radical" />
-</div>
-
----
-<div align="center">
   <h2>🏅 GitHub Stats</h2>
   
   <!-- 전체 활동/아이콘 포함 -->
