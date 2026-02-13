@@ -7,7 +7,7 @@
   저는 꾸준히 성장하는 것을 목표로 하는 데이터 분석 learner입니다.<br>
   현재 데이터 분석과 관련된 SQL, 파이썬, 통계학 등을 공부하고 있습니다.<br>
 <br>
-  contact: daltang1015@naver.com
+  contact: daltang1015@naver.com or 하단의 gmail
   </p>
 </div>
 
