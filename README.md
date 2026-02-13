@@ -15,7 +15,6 @@
 <div align="center">
 <h2>🛠️ Tech Stacks</h2>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Python-navy?style=flat-square&logo=Python&logoColor=white">
