@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=a8d1b7&height=120&text=Iyeong03%27s%20Repository&fontColor=f5fff5&fontSize=70" />
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: babypink;">Welcome to Iyeong03's Repository!</h2>
+  <h2 style="border-bottom: 1px solid pink; color: pink;">Welcome to Iyeong03's Repository!</h2>
 
   <p style="font-weight:700; font-size:15px; color:#282d33; text-align:center;">
   저는 꾸준히 성장하는 것을 목표로 하는 데이터 분석 learner입니다.<br>
